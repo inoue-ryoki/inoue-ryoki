@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🌐 SNS
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/r_i_engineer)
+- [![Facebook](https://img.shields.io/badge/Facebook-%1877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/rinoue.dennnokotsu.jp/)
 
-<!--
-**inoue-ryoki/inoue-ryoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inoue-ryoki&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=inoue-ryoki&theme=radical)](https://git.io/streak-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inoue-ryoki&theme=dracula&&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=inoue-ryoki&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
